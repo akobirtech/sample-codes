@@ -1,4 +1,5 @@
 let soz = document.getElementById("soz")
+console.log("hello github");
 
 let isEdit=-1
 function saqlash(){
